@@ -2,4 +2,3 @@ resolusi 2020
 - Mendapatkan pekerjaan yang membuat senang
 - menjadi lebih baik
 - mendapatkan ip minimal 3.3 untuk semester 2 dan 3
-- belajar github
